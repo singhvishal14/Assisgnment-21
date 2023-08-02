@@ -66,7 +66,7 @@ namespace Assisgnment_21
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Learning-\n");
+            Console.WriteLine("-------------------------Welcome to Learning---------------------------\n");
 
             // Create threads for each function
             Thread daysThread = new Thread(DisplayDays);
